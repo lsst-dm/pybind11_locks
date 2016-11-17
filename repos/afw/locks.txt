@@ -792,7 +792,7 @@
 "python/lsst/afw/math/random.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/spatialCell.cc" "None" "2016-10-17 09:40:22.311001"
 "python/lsst/afw/math/stack.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/math/statistics.cc" "Krzysztof Findeisen" "2016-11-17 12:18:27.568513"
+"python/lsst/afw/math/statistics.cc" "None" "2016-11-17 13:08:52.935789"
 "python/lsst/afw/math/traits.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/warpExposure.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/warper.py" "None" "2016-10-03 09:51:36.341845"
