@@ -209,7 +209,7 @@
 "tests/testSpline.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testStacker.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testStatBug1697.py" "None" "2016-10-03 09:51:36.341845"
-"tests/testStatClipException1045.py" "None" "2016-10-03 09:51:36.341845"
+"tests/testStatClipException1045.py" "Krzysztof Findeisen" "2016-11-17 10:56:50.824875"
 "tests/testStatistics.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testStatisticsMasked.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testStatisticsOverloads.py" "None" "2016-10-03 09:51:36.341845"
