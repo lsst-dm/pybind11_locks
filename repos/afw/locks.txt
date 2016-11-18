@@ -936,7 +936,7 @@
 "python/lsst/afw/table/detail/detailLib.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/detail/schemaImpl.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/detail/schemaMapperImpl.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/table/io/SConscript" "None" "2016-10-03 09:51:36.341845"
+"python/lsst/afw/table/io/SConscript" "Krzysztof Findeisen" "2016-11-17 16:01:20.757718"
 "python/lsst/afw/table/io/__init__.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/archiveIndexSchema.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/catalogVector.cc" "None" "2016-10-03 09:51:36.341845"
