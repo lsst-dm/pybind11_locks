@@ -946,4 +946,4 @@
 "python/lsst/afw/table/io/inputArchive.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/ioLib.py" "None" "2016-11-18 11:49:21.487192"
 "python/lsst/afw/table/io/outputArchive.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/table/io/persistable.cc" "Krzysztof Findeisen" "2016-11-17 15:42:29.761633"
+"python/lsst/afw/table/io/persistable.cc" "None" "2016-11-18 15:27:19.726969"
