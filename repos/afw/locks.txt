@@ -944,6 +944,6 @@
 "python/lsst/afw/table/io/fitsSchemaInputMapper.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/fitsWriter.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/inputArchive.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/table/io/ioLib.py" "None" "2016-10-03 09:51:36.341845"
+"python/lsst/afw/table/io/ioLib.py" "Krzysztof Findeisen" "2016-11-17 16:33:35.075412"
 "python/lsst/afw/table/io/outputArchive.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/table/io/persistable.cc" "Krzysztof Findeisen" "2016-11-17 15:42:29.761633"
