@@ -786,7 +786,7 @@
 "python/lsst/afw/math/kernelPersistenceHelper.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/leastSquares.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/maskedVector.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/math/mathLib.py" "Krzysztof Findeisen" "2016-11-17 17:30:00.219601"
+"python/lsst/afw/math/mathLib.py" "None" "2016-11-18 15:26:35.563781"
 "python/lsst/afw/math/minimize.cc" "None" "2016-10-06 13:01:36.531726"
 "python/lsst/afw/math/offsetImage.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/random.cc" "None" "2016-10-03 09:51:36.341845"
