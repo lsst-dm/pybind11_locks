@@ -735,7 +735,7 @@
 "python/lsst/afw/gpu/gpuExceptions.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/gpu/gpuLib.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/gpu/isGpuBuild.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/image/SConscript" "None" "2016-10-03 09:51:36.341845"
+"python/lsst/afw/image/SConscript" "Krzysztof Findeisen" "2016-11-18 16:19:37.771603"
 "python/lsst/afw/image/SdssFilters.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/__init__.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/apCorrMap.cc" "Krzysztof Findeisen" "2016-11-18 16:11:38.470773"
