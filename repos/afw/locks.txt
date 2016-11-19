@@ -751,7 +751,7 @@
 "python/lsst/afw/image/fits" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/image.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/imageAlgorithm.cc" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/image/imageLib.py" "None" "2016-10-03 09:51:36.341845"
+"python/lsst/afw/image/imageLib.py" "Krzysztof Findeisen" "2016-11-18 16:20:09.198825"
 "python/lsst/afw/image/imagePca.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/imageSlice.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/imageUtils.cc" "None" "2016-10-03 09:51:36.341845"
