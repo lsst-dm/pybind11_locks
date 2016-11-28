@@ -764,7 +764,7 @@
 "python/lsst/afw/image/testUtils.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/utils.cc" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/image/utils.py" "None" "2016-10-03 09:51:36.341845"
-"python/lsst/afw/image/wcs.cc" "Krzysztof Findeisen" "2016-11-28 13:49:44.747394"
+"python/lsst/afw/image/wcs.cc" "None" "2016-11-28 14:16:13.302113"
 "python/lsst/afw/math/SConscript" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/__init__.py" "None" "2016-10-03 09:51:36.341845"
 "python/lsst/afw/math/approximate.cc" "None" "2016-10-03 09:51:36.341845"
