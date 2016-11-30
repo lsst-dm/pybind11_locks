@@ -201,7 +201,7 @@
 "tests/testPolygon.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testRandom1.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testRgb.py" "None" "2016-10-03 09:51:36.341845"
-"tests/testRowColumnStats.py" "Krzysztof Findeisen" "2016-11-28 14:17:18.485657"
+"tests/testRowColumnStats.py" "None" "2016-11-30 15:59:09.506482"
 "tests/testScaledPlus.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testSeparableXYTransform.py" "None" "2016-10-03 09:51:36.341845"
 "tests/testSourceMatch.py" "None" "2016-10-03 09:51:36.341845"
